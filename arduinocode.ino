@@ -1,6 +1,6 @@
 /*........  EMF Detector	*/
 /*........	EMF Detector Using Arduino	*/
-/*........	Hitarth Chopra - 2K20/EE/159	*/
+/*........	Manik Garg - 2K20/EE/159	*/
 
 
 
